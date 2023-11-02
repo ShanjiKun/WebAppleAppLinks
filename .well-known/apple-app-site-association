@@ -1,0 +1,16 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["D3X257L3SA.com.saola.testapp"],
+             "components": [
+               {
+                  "/": "/@*",
+                  "exclude": true,
+                  "comment": "Matches any URL with a path that starts with @"
+               }
+             ]
+           }
+       ]
+   }
+}
